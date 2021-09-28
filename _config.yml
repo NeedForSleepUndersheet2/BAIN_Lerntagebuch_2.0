@@ -8,4 +8,4 @@ description: > # Lerntagebuch im Kurs Bibliotheks- und Archivinformatik FS2020
 github_username:  NeedForSleepUndersheet2 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: jekyll-theme-cayman
+
